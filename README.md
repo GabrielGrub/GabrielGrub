@@ -42,7 +42,7 @@
 ### 🛠️ Ferramentas & Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
 </div>
 
 ---
