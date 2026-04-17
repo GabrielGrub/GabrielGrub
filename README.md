@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b5&height=200&section=header&text=Gabriel%20Grub&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Estudante%20na%20USP%20%7C%20Python%20%7C%20Sempre%20aprendendo%20🚀&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b5&height=200&section=header&text=Gabriel%20Grub&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&descAlignY=58&descAlign=50" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GabrielGrub&color=00d9ff&style=flat-square&label=visitas" alt="profile views" />
@@ -6,7 +6,7 @@
 
 ---
 
-### 🐍 Minha cobra comendo meus commits
+### 🐍 Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielGrub/GabrielGrub/output/github-contribution-grid-snake-dark.svg" />
