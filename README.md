@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Gabriel!+👋;Estudante+na+USP+🎓;Apaixonado+por+Python+🐍;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b5&height=200&section=header&text=Gabriel%20Grub&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Estudante%20na%20USP%20%7C%20Python%20%7C%20Sempre%20aprendendo%20🚀&descAlignY=58&descAlign=50" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GabrielGrub&color=00d9ff&style=flat-square&label=visitas" alt="profile views" />
@@ -31,10 +29,11 @@
 
 ---
 
+
 ### 🛠️ Ferramentas & Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux&theme=dark" />
 </div>
 
 ---
@@ -52,3 +51,5 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b5,100:00d9ff&height=120&section=footer" />
